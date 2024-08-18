@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JohnMonteir0
-- I’m interested in Terraform, AWS, Azure and IaC
+- I’m interested in Terraform, AWS, K8s
 - I have a degree in information security and Postgraduate in Cloud Computing
 - I’m looking to practice some of my knowledge here
 
