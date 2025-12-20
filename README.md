@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JohnMonteir0
-- I'm Kubestronaut 🚀
+- I'm a Kubestronaut 🚀
 - I’m interested in Terraform, AWS, K8s and Beer 🍺
 - I’m looking to broke some things here 🔍
 
