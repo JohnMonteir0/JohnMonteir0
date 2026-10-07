@@ -1,0 +1,54 @@
+<svg width="1200" height="300" viewBox="0 0 1200 300" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="background" x1="30" y1="18" x2="1160" y2="284" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#07111F"/>
+      <stop offset="0.52" stop-color="#0B1729"/>
+      <stop offset="1" stop-color="#101827"/>
+    </linearGradient>
+    <radialGradient id="blueGlow" cx="0" cy="0" r="1" gradientTransform="translate(996 50) rotate(138) scale(415 306)" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#326CE5" stop-opacity="0.50"/>
+      <stop offset="1" stop-color="#326CE5" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="violetGlow" cx="0" cy="0" r="1" gradientTransform="translate(102 286) rotate(-24) scale(427 253)" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#7C3AED" stop-opacity="0.23"/>
+      <stop offset="1" stop-color="#7C3AED" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="line" x1="70" y1="0" x2="650" y2="0" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#60A5FA"/>
+      <stop offset="1" stop-color="#60A5FA" stop-opacity="0"/>
+    </linearGradient>
+    <filter id="blur" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="24"/>
+    </filter>
+  </defs>
+
+  <rect width="1200" height="300" rx="26" fill="url(#background)"/>
+  <rect width="1200" height="300" rx="26" fill="url(#blueGlow)"/>
+  <rect width="1200" height="300" rx="26" fill="url(#violetGlow)"/>
+
+  <g opacity="0.17" stroke="#93C5FD">
+    <path d="M801 27L1148 27"/>
+    <path d="M844 68L1188 68"/>
+    <path d="M777 109L1117 109"/>
+    <path d="M829 150L1172 150"/>
+    <path d="M785 191L1128 191"/>
+    <path d="M852 232L1195 232"/>
+    <path d="M809 273L1150 273"/>
+  </g>
+  <g fill="#60A5FA">
+    <circle cx="801" cy="27" r="3"/>
+    <circle cx="1117" cy="109" r="3"/>
+    <circle cx="829" cy="150" r="3"/>
+    <circle cx="1128" cy="191" r="3"/>
+    <circle cx="852" cy="232" r="3"/>
+  </g>
+  <circle cx="1008" cy="147" r="92" stroke="#60A5FA" stroke-opacity="0.12" stroke-width="22"/>
+  <circle cx="1008" cy="147" r="56" fill="#326CE5" fill-opacity="0.12" filter="url(#blur)"/>
+
+  <text x="70" y="116" fill="#F8FAFC" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="48" font-weight="700" letter-spacing="-1">John Monteiro</text>
+  <rect x="70" y="141" width="580" height="2" fill="url(#line)"/>
+  <text x="70" y="188" fill="#93C5FD" font-family="JetBrains Mono,Consolas,monospace" font-size="23" font-weight="600">CNCF KUBESTRONAUT  •  CLOUD BUILDER</text>
+  <text x="70" y="229" fill="#94A3B8" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="17">Building reliable platforms. Learning in public.</text>
+
+  <rect x="1" y="1" width="1198" height="298" rx="25" stroke="#93C5FD" stroke-opacity="0.14" stroke-width="2"/>
+</svg>
