@@ -23,15 +23,9 @@ spec:
   status: exploring-cloud-native
 ```
 
-<img src="https://skillicons.dev/icons?i=terraform,aws,kubernetes,grafana,prometheus,github&theme=dark" alt="Terraform, AWS, Kubernetes, Grafana, Prometheus, and GitHub" />
-&nbsp;
-<img height="48" src="https://cdn.simpleicons.org/argo/EF7B4D" alt="Argo CD" title="Argo CD" />
-
-<br />
-<br />
-
-<p align="center">
-  <img width="720" alt="Kubernetes illustration" src="https://github.com/user-attachments/assets/2d7b9c49-77b1-49e2-97be-95765ca90040" />
+<p>
+  <img src="https://skillicons.dev/icons?i=terraform,aws,kubernetes,grafana,prometheus,github&theme=dark" alt="Terraform, AWS, Kubernetes, Grafana, Prometheus, and GitHub" />
+  <img height="48" src="https://cdn.simpleicons.org/argo/EF7B4D" alt="Argo CD" title="Argo CD" />
 </p>
 
 ---
